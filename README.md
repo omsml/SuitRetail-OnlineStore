@@ -1,5 +1,5 @@
 <p align="center">
-#  **Suite | Online Retail Store**
+## **Suite | Online Retail Store**
 
 
   <img width="1916" height="914" alt="image" src="https://github.com/user-attachments/assets/a032c69a-72a6-45f3-b398-1cbf57f80418" />
