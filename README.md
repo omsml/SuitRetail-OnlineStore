@@ -83,6 +83,6 @@ This platform curates the finest 2026 flagships, luxury architecture books, and 
 ---
 
 <p align="center">
-  <b>Suite © 2026. Curated for the Elite.</b><br>
-  Designed with 💜 and 💖
+  <b>Suite © 2026. All rights reserved by @omsml.</b><br>
+  Designed with 💖
 </p>
