@@ -49,7 +49,6 @@ This platform curates the finest 2026 flagships, luxury architecture books, and 
 ## 🛠️ Technical Architecture
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML5%20%7C%20TailwindCSS-7c3aed?style=for-the-badge&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Logic-JavaScript%20ES6%2B-db2777?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/API-DummyJSON-0ea5e9?style=for-the-badge&logo=json" />
   <img src="https://img.shields.io/badge/Typography-Plus%20Jakarta%20Sans-334155?style=for-the-badge" />
@@ -75,11 +74,13 @@ This platform curates the finest 2026 flagships, luxury architecture books, and 
 
 ## 👨‍💻 Developed By
 
-**Omm Prakash Samal** 
-_
-*Full Stack Java Developer*
-_
-📍 Bhubaneswar, Odisha, India  
+ **Omm Prakash Samal** 
+
+
+ *Full Stack Java Developer*
+
+
+ 📍 Bhubaneswar, Odisha, India  
 
 ---
 
