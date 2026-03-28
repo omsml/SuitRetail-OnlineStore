@@ -1,6 +1,7 @@
+<p align="center">
 #  Suite | Online Retail Store
 
-<p align="center">
+
   <img width="1916" height="914" alt="image" src="https://github.com/user-attachments/assets/a032c69a-72a6-45f3-b398-1cbf57f80418" />
   <img width="1920" height="909" alt="image" src="https://github.com/user-attachments/assets/59f5be43-1850-4018-b2fc-e7a46d646c0d" />
   <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/c866b941-0c61-4ac9-add9-43afa262e854" />
