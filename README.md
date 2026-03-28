@@ -76,11 +76,9 @@ This platform curates the finest 2026 flagships, luxury architecture books, and 
 
  **Omm Prakash Samal** 
 
-
  *Full Stack Java Developer*
 
-
- 📍 Bhubaneswar, Odisha, India  
+📍 Bhubaneswar, Odisha, India  
 
 ---
 
