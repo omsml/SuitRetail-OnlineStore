@@ -1,7 +1,14 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="40" height="40"> Suite | Elite Tech & Trends
+#  Suite | Online Retail Store
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?q=80&w=1200" alt="Suite Banner" width="100%" style="border-radius: 24px; box-shadow: 0 20px 50px rgba(0,0,0,0.1);">
+  <img width="1916" height="914" alt="image" src="https://github.com/user-attachments/assets/a032c69a-72a6-45f3-b398-1cbf57f80418" />
+  <img width="1920" height="909" alt="image" src="https://github.com/user-attachments/assets/59f5be43-1850-4018-b2fc-e7a46d646c0d" />
+  <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/c866b941-0c61-4ac9-add9-43afa262e854" />
+  <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/854ac9fd-59e4-448e-9e29-24ff4e26e36d" />
+  <img width="1920" height="905" alt="image" src="https://github.com/user-attachments/assets/558ac5d3-8b72-45d8-9292-62bc506ead14" />
+  <img width="1920" height="906" alt="image" src="https://github.com/user-attachments/assets/a396848a-7e35-48d9-85e5-872c28e4c9dc" />
+  <img width="1920" height="764" alt="image" src="https://github.com/user-attachments/assets/6af78e0f-3b4d-4066-8564-de821ec3f068" />
+  Live Link - 
 </p>
 
 ---
@@ -66,21 +73,11 @@ This platform curates the finest 2026 flagships, luxury architecture books, and 
 
 ---
 
-## 📐 Mathematical Grounding
-
-The application logic follows a strict financial formula to ensure accuracy:
-
-$$Total = (Subtotal + (Subtotal \times 0.18)) + COD\_Fee$$
-
-* **Currency:** All prices are converted from USD to INR at a rate of **₹83**.
-* **Taxation:** Fixed **18% GST** as per modern retail standards.
-* **Fees:** A **₹100 Handling Fee** is toggled strictly when `paymentMethod === 'cod'`.
-
----
-
 ## 👨‍💻 Developed By
 
-**Omm Prakash Samal** *Full Stack Java Developer* 📍 Bhubaneswar, Odisha, India  
+**Omm Prakash Samal** 
+*Full Stack Java Developer* 
+📍 Bhubaneswar, Odisha, India  
 
 ---
 
